@@ -32,7 +32,7 @@
 ![Screenshot from 2024-01-02 14-47-25](https://github.com/akifayn/HAVELSAN-PROJE/assets/138572294/0adb5176-bfbd-4282-870a-34b64fd0fddb)
 
 
-#İp : 10.0.2.15
+->İp : 10.0.2.15
 
 
 ## Help Komutu Çıktısı
