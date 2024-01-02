@@ -4,12 +4,12 @@
 ## Web Arayüzü
 
 
-#Geçici parolayı değiştirme
+->Geçici parolayı değiştirme
 
 
 ![Screenshot from 2024-01-02 14-33-02](https://github.com/akifayn/HAVELSAN-PROJE/assets/138572294/d6911dbb-6c24-407c-9b97-a99e5bb4a5f7)
 
-#Liman web arayüzü başlangıç ayarları
+->Liman web arayüzü başlangıç ayarları
 
 
 ![Screenshot from 2024-01-02 14-35-35](https://github.com/akifayn/HAVELSAN-PROJE/assets/138572294/bf90cab6-6366-4aa3-863a-1a62cb5f2f0d)
