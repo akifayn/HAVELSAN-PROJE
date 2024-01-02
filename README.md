@@ -4,10 +4,10 @@
 ## Web Arayüzü
 
 
-->Geçici parolayı değiştirme
+#Geçici parolayı değiştirme
 ![Screenshot from 2024-01-02 14-33-02](https://github.com/akifayn/HAVELSAN-PROJE/assets/138572294/d6911dbb-6c24-407c-9b97-a99e5bb4a5f7)
 
-->Liman web arayüzü başlangıç ayarları
+#Liman web arayüzü başlangıç ayarları
 ![Screenshot from 2024-01-02 14-35-35](https://github.com/akifayn/HAVELSAN-PROJE/assets/138572294/bf90cab6-6366-4aa3-863a-1a62cb5f2f0d)
 
 ->Yeni kullanıcı ekleme arayüzü
@@ -17,8 +17,7 @@
 ![Screenshot from 2024-01-02 14-36-03](https://github.com/akifayn/HAVELSAN-PROJE/assets/138572294/a2aa79af-6a82-447d-bd45-d234bd5ee9bc)
 
 ->Web arayüzü
-![Screenshot from 2024-01-01 20-31-52](https://github.com/ogzhnylcn/HAVELSAN--PROJE/assets/96052998/c6ca2f1f-b9f3-4605-921d-1af55e0db403)
-
+![Screenshot from 2024-01-02 14-49-41](https://github.com/akifayn/HAVELSAN-PROJE/assets/138572294/6f86a70a-8a45-4810-92a2-6ab01b948b85)
 
 ## İp Adresi Çıktısı
 
