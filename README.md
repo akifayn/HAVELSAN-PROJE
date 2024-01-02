@@ -5,15 +5,23 @@
 
 
 #Geçici parolayı değiştirme
+
+
 ![Screenshot from 2024-01-02 14-33-02](https://github.com/akifayn/HAVELSAN-PROJE/assets/138572294/d6911dbb-6c24-407c-9b97-a99e5bb4a5f7)
 
 #Liman web arayüzü başlangıç ayarları
+
+
 ![Screenshot from 2024-01-02 14-35-35](https://github.com/akifayn/HAVELSAN-PROJE/assets/138572294/bf90cab6-6366-4aa3-863a-1a62cb5f2f0d)
 
 ->Yeni kullanıcı ekleme arayüzü
+
+
 ![Screenshot from 2024-01-02 14-35-51](https://github.com/akifayn/HAVELSAN-PROJE/assets/138572294/0bb1fd1a-3758-404e-8496-98d12196eeac)
 
 ->Kurulum sonu mesajı
+
+
 ![Screenshot from 2024-01-02 14-36-03](https://github.com/akifayn/HAVELSAN-PROJE/assets/138572294/a2aa79af-6a82-447d-bd45-d234bd5ee9bc)
 
 ->Web arayüzü
