@@ -22,17 +22,15 @@
 
 ## İp Adresi Çıktısı
 
+![Screenshot from 2024-01-02 14-47-25](https://github.com/akifayn/HAVELSAN-PROJE/assets/138572294/0adb5176-bfbd-4282-870a-34b64fd0fddb)
 
-![Screenshot from 2024-01-01 20-19-41](https://github.com/ogzhnylcn/HAVELSAN--PROJE/assets/96052998/05cc4de0-5ca1-426a-b333-751c00e94145)
 
 #İp : 10.0.2.15
 
 
 ## Help Komutu Çıktısı
 
-
-![Screenshot from 2024-01-01 20-12-15](https://github.com/ogzhnylcn/HAVELSAN--PROJE/assets/96052998/505b075f-ca90-45cc-ab2a-ae0780a09861)
-
+![Screenshot from 2024-01-02 14-47-48](https://github.com/akifayn/HAVELSAN-PROJE/assets/138572294/721d7b76-f6fa-4012-9729-b6e0afb4cf77)
 
 ## Administrator Çıktısı
 
