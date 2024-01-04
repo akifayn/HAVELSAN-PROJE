@@ -1,5 +1,8 @@
+#!/bin/bash
 # Ubuntu'ya Güncel PHP Ekleme
 
+#if else switch cas vs bişey lazım
+echo "$(date) PHP repoları ekleniyor..." >> /var/log/liman-installer.log
 sudo apt install software-properties-common
 sudo add-apt-repository ppa:ondrej/php
 sudo apt update
@@ -28,8 +31,11 @@ sudo /usr/share/postgresql-common/pgdg/apt.postgresql.org.sh
 
 
 # Liman Paketi Indirilmesi
-
+#1 deren style
+#wget lazım
 sudo apt install ./liman-2.0-868.deb -y
+
+#2 docs liman dev style
 echo "deb [arch=amd64] http://depo.aciklab.org/ jammy main" | sudo tee /etc/apt/sources.list.d/acikdepo.list
 wget -O- http://depo.aciklab.org/public.key  | gpg --dearmor > aciklab.gpg
 sudo mv aciklab.gpg /etc/apt/trusted.gpg.d/aciklab.gpg
