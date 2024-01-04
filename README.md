@@ -47,7 +47,7 @@
 ![Screenshot from 2024-01-02 14-31-26](https://github.com/akifayn/HAVELSAN-PROJE/assets/138572294/179c9875-10de-40eb-90d5-9216e6ac6c93)
 
 
-## Parola Sıfırlama ("Reset") Çıktısı
+## Parola Sıfırlama ("reset") Çıktısı
 
 
 ![Screenshot from 2024-01-02 14-38-45](https://github.com/akifayn/HAVELSAN-PROJE/assets/138572294/553512fb-4385-4278-8b3f-9db7c8778a89)
