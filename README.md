@@ -52,4 +52,16 @@
 
 ![Screenshot from 2024-01-02 14-38-45](https://github.com/akifayn/HAVELSAN-PROJE/assets/138572294/553512fb-4385-4278-8b3f-9db7c8778a89)
 
+##Loglama İşlemlerini Kaydettiğimiz Dosyanın Çıktsı
+
+
+![3fda4ad6-dac3-49aa-9cb2-2c2b2e3aadaa](https://github.com/akifayn/HAVELSAN-PROJE/assets/138572294/027c3a1c-4831-4b33-b81b-b0cdf806a05f)
+
+
+
+
+
+
+
+
 
